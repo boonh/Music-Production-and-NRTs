@@ -1,5 +1,5 @@
 # Exploring Neo-Riemannian Transformations in Music Production Contexts
-This repository contains links to audo and video examples to support my chapter titled _Exploring Neo-Riemannian Transformations in Music Production Contexts_. The chapter was publoshed as part of the book 'Neo-Riemannian Analysis' edited by Bozhidar Chapkanov and published by Vernon Press.
+This repository contains links to audo and video examples to support my chapter titled _Exploring Neo-Riemannian Transformations in Music Production Contexts_. The chapter was published as part of the book 'Neo-Riemannian Analysis' edited by Bozhidar Chapkanov and published by Vernon Press.
 
 The video examples illustrate the four production contexts discussed in the chapter.
 
