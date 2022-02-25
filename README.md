@@ -18,8 +18,11 @@ Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media 
 
 # Track Links
 Pat Metheny - [Roots of Coincidence](https://youtu.be/KAcr39zCvqM)
+
 Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
+
 Radiohead - [Just](https://youtu.be/oIFLtNYI3Ls)
+
 Coldplay - [Viva la Vida](https://youtu.be/dvgZkm1xWPE)
 
 
