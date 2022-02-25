@@ -13,3 +13,9 @@ Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media 
 
 # Video and Audio Links
 
+
+
+
+# Track Links
+Pat Metheny - [Roots of Coincidence (https://youtu.be/KAcr39zCvqM)]
+
