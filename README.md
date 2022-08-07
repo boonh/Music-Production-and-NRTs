@@ -1,8 +1,6 @@
 # Exploring Neo-Riemannian Transformations in Music Production Contexts
 This repository contains links to audo and video examples to support my chapter titled _Exploring Neo-Riemannian Transformations in Music Production Contexts_. The chapter was published as part of the book 'Neo-Riemannian Analysis' edited by Bozhidar Chapkanov and published by Vernon Press.
 
-The video examples illustrate the four production contexts discussed in the chapter.
-
 # Abstract
 _This chapter explores the application of neo-Riemannian transformations (NRT) within a number of music production contexts. The first setting is commonly referred to as song starters, which are initially sketched ideas. Song starters are applicable across the field of music production, useful equally as much for electronic music producers as for singer-songwriters and bands. The second context considers NRT's within a more traditional MIDI situation, either using a keyboard or controller interface, or by hand entering notes in a MIDI editor. The third approach explores more labor intensive production work using automation to realise transformations. Examples include treating the oscillators of a synthesizer plugin, such as Native Instruments Massive, as three independent voices. The fourth example is specific to Ableton Live and uses Follow Actions. These are a type of branching logic invoked when a midi pattern concludes playing. Examples of instructional commands include stop, again (repeat), first, last and jump._
 
