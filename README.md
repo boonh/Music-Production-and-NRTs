@@ -17,54 +17,48 @@ Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media 
 
 
 # Track Links (Note links open in the same window)
-Pat Metheny - [Roots of Coincidence](https://youtu.be/KAcr39zCvqM)
+
+
+Beyoncé - [Crazy In Love](https://youtu.be/ViwtNLUqkMY)
+
+Bruno Mars - [Locked Out Of Heaven](https://youtu.be/e-fA-gBCkj0)
+
+Burial - [Archangel](https://youtu.be/afyABj8oFVI)
+
+David Bowie – [Space Oddity](https://youtu.be/iYYRH4apXDo)
+
+Deadmau5 - [Some Chords](https://youtu.be/__2ABJjxzNo)
 
 Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
 
-Radiohead - [Just](https://youtu.be/oIFLtNYI3Ls)
+Fleetwood Mac - [Man of the World](https://youtu.be/8YaoGuBrqao)
 
-Coldplay - [Viva la Vida](https://youtu.be/dvgZkm1xWPE)
+Drillminister - [Nouveau Riche](https://youtu.be/SuowvWMGRbk?t=55)
+
+Herbie Hancock - [I Thought It Was You](https://youtu.be/868YQyzPBkg)
+
+Leonard Cohen - [Hallelujah](https://youtu.be/ttEMYvpoR-k)
+
+Louis Armstrong - [What a Wonderful World (Remastered)](https://youtu.be/e1FN047_LT0)
+
+Neil Young [Old Man (2009 Remaster)](https://youtu.be/rAtDrFdomN4)
+
+Pat Metheny - [Roots of Coincidence](https://youtu.be/KAcr39zCvqM)
+
+Pink Floyd - [Shine On You Crazy Diamond (Parts I-V)](https://youtu.be/54W8kktFE_o?t=518)
 
 Pixies - [Monkey Gone To Heaven (Official Video)](https://youtu.be/EHC9HE7vazI)
 
-Beyoncé. (2009). Crazy In Love (Official Video). 3 October. Available at https://youtu.be/ViwtNLUqkMY.
+Porter Robinson - [Sad Machine (Official Lyric Video)](https://youtu.be/HAIDqt2aUek)
 
-Bruno Mars. (2020). Bruno Mars - Locked Out Of Heaven (Official Music Video). 15 October. Available at https://youtu.be/e-fA-gBCkj0.
+Radiohead - [Just](https://youtu.be/oIFLtNYI3Ls)
 
-Burial - Topic. (2020). Archangel. 14 November. Available at https://youtu.be/afyABj8oFVI.
+Rui Da Silva - [Touch Me ft. Cassandra](https://youtu.be/3FkApmj8K1M)
 
-David Bowie. (2015). David Bowie – Space Oddity (Official Video). 9 July. Available at https://youtu.be/iYYRH4apXDo.
+Santo & Johnny - [Sleepwalk](https://youtu.be/co0qrS8wUaQ)
 
-Deadmau5. (2010). Deadmau5 - Some Chords (HD). 8 November. Available at https://youtu.be/__2ABJjxzNo.
+The Police - [Every Breath You Take](https://youtu.be/OMOGaugKpzs?t=79) 
 
-Fink. (2015). Fink - 'Pilgrim' (Official Video). 16 January. Available at https://youtu.be/eRjm9dupL1k.
-
-Fleetwood Mac. (2014). Man of the World. 22 May. Available at https://youtu.be/8YaoGuBrqao.
-
-GRM Daily. (2021). Drillminister - Nouveau Riche [Music Video] | GRM Daily | Terms & Conditions: A UK Drill Story. 28 February. Available at https://youtu.be/SuowvWMGRbk?t=55. 
-
-Herbie Hancock. (2014). I Thought It Was You. 8 November. Available at https://youtu.be/868YQyzPBkg.
-
-Leonard Cohen. (2014). Hallelujah (Audio). 22 September. Available at https://youtu.be/ttEMYvpoR-k.
-
-Louis Armstrong. (2017). What a Wonderful World (Remastered). 7 February. Available at https://youtu.be/e1FN047_LT0.
-
-neilyoungchannel. (2014). Old Man (2009 Remaster). 6 November. Available at https://youtu.be/rAtDrFdomN4.
-
-Pat Metheny. (2010). The Roots of Coincidence. 8 November. Available at https://youtu.be/KAcr39zCvqM.
-
-Pink Floyd. (2016). Shine On You Crazy Diamond (Parts I-V). 12 January. Available at https://youtu.be/54W8kktFE_o?t=518.
-
-Porter Robinson. (2014). Porter Robinson - Sad Machine (Official Lyric Video). 21 May. Available at https://youtu.be/HAIDqt2aUek.
-
-Radiohead. (2015). Radiohead - Just. 23 January. Available at https://youtu.be/oIFLtNYI3Ls.
-
-RuiDaSilvaMusic. (2009). Rui Da Silva - Touch Me ft. Cassandra. 25 October. Available at https://youtu.be/3FkApmj8K1M.
-
-Santo & Johnny - Topic. (2014). Sleepwalk. 8 November. Available at https://youtu.be/co0qrS8wUaQ.
-
-The Police. (2010). The Police - Every Breath You Take (Official Video). 23 February. Available at https://youtu.be/OMOGaugKpzs?t=79. 
-
-UKF Drum & Bass. (2021). Metrik & Grafix - Overdrive. 26 July. Available at https://youtu.be/dZqWjgyR9rU.
+Metrik & Grafix - [Overdrive](https://youtu.be/dZqWjgyR9rU)
 
 
