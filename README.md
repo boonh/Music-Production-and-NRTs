@@ -16,7 +16,7 @@ Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media 
 
 
 
-# Track Links
+# Track Links (Note links open in the same window)
 Pat Metheny - [Roots of Coincidence](https://youtu.be/KAcr39zCvqM)
 
 Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
@@ -24,5 +24,47 @@ Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
 Radiohead - [Just](https://youtu.be/oIFLtNYI3Ls)
 
 Coldplay - [Viva la Vida](https://youtu.be/dvgZkm1xWPE)
+
+Pixies - [Monkey Gone To Heaven (Official Video)](https://youtu.be/EHC9HE7vazI)
+
+Beyoncé. (2009). Crazy In Love (Official Video). 3 October. Available at https://youtu.be/ViwtNLUqkMY.
+
+Bruno Mars. (2020). Bruno Mars - Locked Out Of Heaven (Official Music Video). 15 October. Available at https://youtu.be/e-fA-gBCkj0.
+
+Burial - Topic. (2020). Archangel. 14 November. Available at https://youtu.be/afyABj8oFVI.
+
+David Bowie. (2015). David Bowie – Space Oddity (Official Video). 9 July. Available at https://youtu.be/iYYRH4apXDo.
+
+Deadmau5. (2010). Deadmau5 - Some Chords (HD). 8 November. Available at https://youtu.be/__2ABJjxzNo.
+
+Fink. (2015). Fink - 'Pilgrim' (Official Video). 16 January. Available at https://youtu.be/eRjm9dupL1k.
+
+Fleetwood Mac. (2014). Man of the World. 22 May. Available at https://youtu.be/8YaoGuBrqao.
+
+GRM Daily. (2021). Drillminister - Nouveau Riche [Music Video] | GRM Daily | Terms & Conditions: A UK Drill Story. 28 February. Available at https://youtu.be/SuowvWMGRbk?t=55. 
+
+Herbie Hancock. (2014). I Thought It Was You. 8 November. Available at https://youtu.be/868YQyzPBkg.
+
+Leonard Cohen. (2014). Hallelujah (Audio). 22 September. Available at https://youtu.be/ttEMYvpoR-k.
+
+Louis Armstrong. (2017). What a Wonderful World (Remastered). 7 February. Available at https://youtu.be/e1FN047_LT0.
+
+neilyoungchannel. (2014). Old Man (2009 Remaster). 6 November. Available at https://youtu.be/rAtDrFdomN4.
+
+Pat Metheny. (2010). The Roots of Coincidence. 8 November. Available at https://youtu.be/KAcr39zCvqM.
+
+Pink Floyd. (2016). Shine On You Crazy Diamond (Parts I-V). 12 January. Available at https://youtu.be/54W8kktFE_o?t=518.
+
+Porter Robinson. (2014). Porter Robinson - Sad Machine (Official Lyric Video). 21 May. Available at https://youtu.be/HAIDqt2aUek.
+
+Radiohead. (2015). Radiohead - Just. 23 January. Available at https://youtu.be/oIFLtNYI3Ls.
+
+RuiDaSilvaMusic. (2009). Rui Da Silva - Touch Me ft. Cassandra. 25 October. Available at https://youtu.be/3FkApmj8K1M.
+
+Santo & Johnny - Topic. (2014). Sleepwalk. 8 November. Available at https://youtu.be/co0qrS8wUaQ.
+
+The Police. (2010). The Police - Every Breath You Take (Official Video). 23 February. Available at https://youtu.be/OMOGaugKpzs?t=79. 
+
+UKF Drum & Bass. (2021). Metrik & Grafix - Overdrive. 26 July. Available at https://youtu.be/dZqWjgyR9rU.
 
 
