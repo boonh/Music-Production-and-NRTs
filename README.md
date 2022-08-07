@@ -11,12 +11,12 @@ _Most popular music styles tend to utilise short harmonic sequences, generally u
 # References
 Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media Scholars' Press, http://tagg.org/mmmsp/EverydayTonalityInfo.htm.
 
-# Video and Audio Links
+# Chapter Video and Audio Links
 
 
 
 
-# Track Links (Note links open in the same window)
+# Track and Discography Links (Note links open in the same window)
 
 
 Beyoncé - [Crazy In Love](https://youtu.be/ViwtNLUqkMY)
