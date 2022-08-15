@@ -26,7 +26,7 @@ Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scho
 
 # Chapter Video and Audio Links
 
-_Section 2: Popular Music Examples and NRTs_
+## Section 2: Popular Music Examples and NRTs
 
    [Songstarter 1](https://youtu.be/-sSwje8hwwc)
 
@@ -34,11 +34,11 @@ _Section 2: Popular Music Examples and NRTs_
 
    [Extended NRT Arpeegiated Sequence](https://youtu.be/AoyLePyzl6M)
 
-_Section 4: Production Approach 1 - Song Starters_
+## Section 4: Production Approach 1 - Song Starters
 
    [Songstarter 2](https://youtu.be/4Kbi1YRwGxs)
 
-_Section 5: Production Approach 2 – Interfaces and Helper Tools_
+## Section 5: Production Approach 2 – Interfaces and Helper Tools
 
    [Tonnetz 1](https://youtu.be/JzSJv5gHpAM)
 
@@ -52,22 +52,18 @@ _Section 5: Production Approach 2 – Interfaces and Helper Tools_
    
    [Hocket](https://youtu.be/0EeYGaEZLVk)
 
-_Section 6: Production Approach 3 - Hand Editing and Automation Approaches_
+## Section 6: Production Approach 3 - Hand Editing and Automation Approaches
 
    [Automation 1](https://youtu.be/N1Vny15AGNE)
 
    [Automation 2](https://youtu.be/6pr182fhr9Q)
 
-_Section 7: Production Approach 4 – Follow Actions and Generative Transforms_
+## Section 7: Production Approach 4 – Follow Actions and Generative Transforms
    [Follow Actions]()
 
-_Supplementatl Videos_
-   [House NRT 1]()
-   [House NRT 2]()
-   [Follow Actions]()
-   [Follow Actions]()   
-   [Follow Actions]()
-
+## Supplemental Videos
+   [House NRT 1](https://youtu.be/ksdF5tGKNcA)
+   [House NRT 2](https://youtu.be/3FgMiCDdCnE)
 
 # Track and Discography Links (Note links open in the same window)
 
