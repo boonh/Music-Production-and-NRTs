@@ -12,6 +12,8 @@ Boon, H. (2021). Improvising song writing and composition within a hybrid modula
 
 Capuzzo, Guy (2004), Neo-Riemannian Theory and the Analysis of Pop-Rock Music, Music Theory Spectrum, 26:2, pp. 177–199, https://libres.uncg.edu/ir/uncg/f/G_Capuzzo_Neo_2004.pdf.
 
+Cohn, R. (2000), Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes, Music Theory Spectrum, 22:1, pp. 89–103.
+
 Forrest, D. L. (2017), PL Voice Leading and the Uncanny in Pop Music, Music Theory Online, 23:4, https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html. 
 
 Hyer, Bryan (2014). 'What Is a Function', Gollin, E. and Rehding, A. (eds.) The Oxford Handbook of Neo-Riemannian Music Theories. Oxford: Oxford University Press.
