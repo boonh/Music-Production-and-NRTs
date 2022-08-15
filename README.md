@@ -67,7 +67,9 @@ Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scho
    [Follow Actions]()
 
 ## Supplemental Videos
+   
    [House NRT 1](https://youtu.be/ksdF5tGKNcA)
+   
    [House NRT 2](https://youtu.be/3FgMiCDdCnE)
 
 ***********************************************************************************************************************************************************
