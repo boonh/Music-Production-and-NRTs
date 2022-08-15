@@ -28,29 +28,48 @@ Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scho
 
 _Section 2: Popular Music Examples and NRTs_
 
-[Songstarter 1](https://youtu.be/-sSwje8hwwc)
+   [Songstarter 1](https://youtu.be/-sSwje8hwwc)
 
-[Songstarter supplemental](https://youtu.be/AIR39h_YPc0)
+   [Songstarter supplemental](https://youtu.be/AIR39h_YPc0)
 
-[Extended NRT Arpeegiated Sequence](https://youtu.be/AoyLePyzl6M)
+   [Extended NRT Arpeegiated Sequence](https://youtu.be/AoyLePyzl6M)
 
 _Section 4: Production Approach 1 - Song Starters_
 
-[Songstarter 2](https://youtu.be/4Kbi1YRwGxs)
+   [Songstarter 2](https://youtu.be/4Kbi1YRwGxs)
 
 _Section 5: Production Approach 2 – Interfaces and Helper Tools_
-[Tonnetz 1](https://youtu.be/JzSJv5gHpAM)
-[Tonnetz 2](https://youtu.be/jOheAeS5ntA)
+
+   [Tonnetz 1](https://youtu.be/JzSJv5gHpAM)
+
+   [Tonnetz 2](https://youtu.be/jOheAeS5ntA)
+   
+   [Multi-gate Pattern 1](https://youtu.be/acJkKk88Jec)
+   
+   [Multi-gate Pattern 2](https://youtu.be/xTKVaNNvAgA)
+   
+   [Multi-gate Pattern 3](https://youtu.be/TC-6Hnp8JOg)
+   
+   [Hocket](https://youtu.be/0EeYGaEZLVk)
 
 _Section 6: Production Approach 3 - Hand Editing and Automation Approaches_
-[Automation 1](https://youtu.be/N1Vny15AGNE)
-[Automation 2](https://youtu.be/6pr182fhr9Q)
+
+   [Automation 1](https://youtu.be/N1Vny15AGNE)
+
+   [Automation 2](https://youtu.be/6pr182fhr9Q)
 
 _Section 7: Production Approach 4 – Follow Actions and Generative Transforms_
-[Follow Actions]()
+   [Follow Actions]()
+
+_Supplementatl Videos_
+   [House NRT 1]()
+   [House NRT 2]()
+   [Follow Actions]()
+   [Follow Actions]()   
+   [Follow Actions]()
+
 
 # Track and Discography Links (Note links open in the same window)
-
 
 Beyoncé - [Crazy In Love](https://youtu.be/ViwtNLUqkMY)
 
@@ -61,8 +80,6 @@ Burial - [Archangel](https://youtu.be/afyABj8oFVI)
 David Bowie – [Space Oddity](https://youtu.be/iYYRH4apXDo)
 
 Deadmau5 - [Some Chords](https://youtu.be/__2ABJjxzNo)
-
-Drillminister - [Nouveau Riche](https://youtu.be/SuowvWMGRbk?t=55)
 
 Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
 
@@ -93,5 +110,3 @@ Rui Da Silva - [Touch Me ft. Cassandra](https://youtu.be/3FkApmj8K1M)
 Santo & Johnny - [Sleepwalk](https://youtu.be/co0qrS8wUaQ)
 
 The Police - [Every Breath You Take](https://youtu.be/OMOGaugKpzs?t=79) 
-
-
