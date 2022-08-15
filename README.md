@@ -8,28 +8,46 @@ _Most popular music styles tend to utilise short harmonic sequences, generally u
 
 # References
 
-Boon, H. (2021). Improvising song writing and composition within a hybrid modular synthesis system', in Hepworth-Sawyer, R., Paterson, J., and Toulson, R. (eds.) Innovation in Music Future Opportunities. Abingdon, Oxon: Routledge. https://westminsterresearch.westminster.ac.uk/item/v3365/improvising-songwriting-and-composition-within-a-hybrid-modular-synthesis-system
+Boon, H. (2021). 'Improvising song writing and composition within a hybrid modular synthesis system', in Hepworth-Sawyer, R., Paterson, J., and Toulson, R. (eds.) _Innovation in Music Future Opportunities_. Abingdon, Oxon: Routledge.
 
-Capuzzo, Guy (2004), Neo-Riemannian Theory and the Analysis of Pop-Rock Music, Music Theory Spectrum, 26:2, pp. 177–199, https://libres.uncg.edu/ir/uncg/f/G_Capuzzo_Neo_2004.pdf.
+Capuzzo, G. (2004). Neo-Riemannian Theory and the Analysis of Pop-Rock Music, _Music Theory Spectrum_, 26:2, pp. 177–199. Available from https://libres.uncg.edu/ir/uncg/f/G_Capuzzo_Neo_2004.pdf.
 
-Cohn, R. (2000), Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes, Music Theory Spectrum, 22:1, pp. 89–103.
+Cohn, R. (2000). Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes, _Music Theory Spectrum_, 22:1, pp. 89–103.
 
-Forrest, D. L. (2017), PL Voice Leading and the Uncanny in Pop Music, Music Theory Online, 23:4, https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html. 
+Forrest, D. L. (2017). PL Voice Leading and the Uncanny in Pop Music, Music Theory Online, 23:4. Available from https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html. 
 
-Hyer, Bryan (2014). 'What Is a Function', Gollin, E. and Rehding, A. (eds.) The Oxford Handbook of Neo-Riemannian Music Theories. Oxford: Oxford University Press.
+Hyer, Bryan (2014). 'What Is a Function', in Gollin, E. and Rehding, A. (eds.) _The Oxford Handbook of Neo-Riemannian Music Theories_. Oxford: Oxford University Press.
 
-Moore, A. F. (2017). Rock The Primary Text. London: Routledge. 
+Moore, A. F. (2017). _Rock The Primary Text_. London: Routledge. 
 
-Ramirez, M.A.M., and Reiss, J. D (2017). Stem Audio Mixing as a Content-Based Transformation of Audio Features, 2017 IEEE 19th International Workshop on Multimedia Signal Processing (MMSP), pp. 1-6, doi: https://doi.org/10.1109/MMSP.2017.8122275.
+Spicer, M. (2017). Fragile, Emergent, and Absent Tonics in Pop and Rock Songs, _Music Theory Online_, 23:2. Available from https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html. 
 
-Spicer, Mark. (2017). Fragile, Emergent, and Absent Tonics in Pop and Rock Songs. Music Theory Online, 23 (2). Available from https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html. 
-
-Tagg, Philip (2009), _Everyday Tonality_, New York and Montreal: The Mass Media Scholars' Press, http://tagg.org/mmmsp/EverydayTonalityInfo.htm.
+Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scholars' Press.
 
 # Chapter Video and Audio Links
 
+_Section 2: Popular Music Examples and NRTs_
 
+[Songstarter 1](https://youtu.be/-sSwje8hwwc)
 
+[Songstarter supplemental](https://youtu.be/AIR39h_YPc0)
+
+[Extended NRT Arpeegiated Sequence](https://youtu.be/AoyLePyzl6M)
+
+_Section 4: Production Approach 1 - Song Starters_
+
+[Songstarter 2](https://youtu.be/4Kbi1YRwGxs)
+
+_Section 5: Production Approach 2 – Interfaces and Helper Tools_
+[Tonnetz 1](https://youtu.be/JzSJv5gHpAM)
+[Tonnetz 2](https://youtu.be/jOheAeS5ntA)
+
+_Section 6: Production Approach 3 - Hand Editing and Automation Approaches_
+[Automation 1](https://youtu.be/N1Vny15AGNE)
+[Automation 2](https://youtu.be/6pr182fhr9Q)
+
+_Section 7: Production Approach 4 – Follow Actions and Generative Transforms_
+[Follow Actions]()
 
 # Track and Discography Links (Note links open in the same window)
 
