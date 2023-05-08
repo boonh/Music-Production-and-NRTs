@@ -19,8 +19,6 @@ Cohn, R. (2000). Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes, _
 
 Forrest, D. L. (2017). PL Voice Leading and the Uncanny in Pop Music, Music Theory Online, 23:4. Available from https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html. 
 
-Hyer, Bryan (2014). 'What Is a Function', in Gollin, E. and Rehding, A. (eds.) _The Oxford Handbook of Neo-Riemannian Music Theories_. Oxford: Oxford University Press.
-
 Moore, A. F. (2017). _Rock The Primary Text_. London: Routledge. 
 
 Spicer, M. (2017). Fragile, Emergent, and Absent Tonics in Pop and Rock Songs, _Music Theory Online_, 23:2. Available from https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html. 
@@ -71,6 +69,8 @@ Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scho
    [House NRT 1](https://youtu.be/ksdF5tGKNcA)
    
    [House NRT 2](https://youtu.be/3FgMiCDdCnE)
+   
+   [Moody Slides](TBC)
 
 ***********************************************************************************************************************************************************
 
@@ -91,6 +91,8 @@ Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
 Fleetwood Mac - [Man of the World](https://youtu.be/8YaoGuBrqao)
 
 Herbie Hancock - [I Thought It Was You](https://youtu.be/868YQyzPBkg)
+
+Janelle Monáe - [Look into My Eyes](https://youtu.be/KKWE2JVjrN0)
 
 Leonard Cohen - [Hallelujah](https://youtu.be/ttEMYvpoR-k)
 
