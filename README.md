@@ -1,29 +1,42 @@
-# Exploring Neo-Riemannian Transformations in Music Production Contexts
-This repository contains links to audo and video examples to support my chapter titled _Exploring Neo-Riemannian Transformations in Music Production Contexts_.
+# An Introduction to neo-Riemannian operations and their application in music production
+
+This repository contains links to audo and video examples to support my chapter titled _An Introduction to neo-Riemannian operations and their application in music production_.
 
 ## Abstract
-_This chapter explores the application of neo-Riemannian transformations (NRT) within a number of music production contexts. The first setting is commonly referred to as song starters, which are initially sketched ideas. Song starters are applicable across the field of music production, useful equally as much for electronic music producers as for singer-songwriters and bands. The second context considers NRT's within a more traditional MIDI situation, either using a keyboard or controller interface, or by hand entering notes in a MIDI editor. The third approach explores more labor intensive production work using automation to realise transformations. Examples include treating the oscillators of a synthesizer plugin as independent voices. The fourth example is specific to Ableton Live and uses Follow Actions. These are a type of branching logic invoked when a midi pattern concludes playing. Examples of instructional commands include stop, again (repeat), first and last._
+_This chapter explores the application of neo-Riemannian operations (NROs) within a number of music production contexts. The first setting is commonly referred to as song starters, which are initially sketched ideas. Song starters are applicable across the field of music production, useful equally as much for electronic music producers as for singer-songwriters and bands. The second context considers NRT's within a more traditional MIDI situation, either using a keyboard or controller interface, or by hand entering notes in a MIDI editor. The third approach explores more labor intensive production work using automation to realise transformations. Examples include treating the oscillators of a synthesizer plugin as independent voices. The fourth example is specific to Ableton Live and uses Follow Actions. These are a type of branching logic invoked when a midi pattern concludes playing. Examples of instructional commands include stop, again (repeat), first and last._
 
-_Most popular music styles tend to utilise short harmonic sequences, generally using triads, using mechanisms Tagg refers to as chord shuttles and chord loops (Tagg 2009: 280–81). Commencing this examination using more familiar triadic chord progressions, the aim here is to inspire producers to relate their tonal preferences within NRT. Then to explore how to extend tonal approaches using NRT in familiar popular music production styles such as House, Trance, or Drum and Bass, for example. Particular attention will be placed to solving issues of bass (roots), an important aspect for many music productions, given the inverted nature of NRT, which is especially problematised when using samples. A question that this chapter seeks to explore is whether the production paradigm can be extended by the use of NRT – ideally applied not too restrictively – whilst keeping in mind that producers are more attracted by sound as a primary goal rather than fulfilling expectations of a functional/non-functional harmony. So, any NRT, single or compound, when combined with instrument texture(s) i.e. plugins, might be sufficient to achieve an interesting and engaging song or soundscape context for production work._ 
+_Most popular music styles tend to utilise short harmonic sequences, generally using triads, using mechanisms Tagg refers to as chord shuttles and chord loops (Tagg 2009: 280–81). Commencing this examination using more familiar triadic chord progressions, the aim here is to inspire producers to relate their tonal preferences within NRT. Then to explore how to extend tonal approaches using NRT in familiar popular music production styles such as House, Trance, or Drum and Bass, for example. Particular attention will be placed to solving issues of bass (roots), an important aspect for many music productions, given the inverted nature of NRT, which is especially problematised when using samples. A question that this chapter seeks to explore is whether the production paradigm can be extended by the use of NROs – ideally applied not too restrictively – whilst keeping in mind that producers are more attracted by sound as a primary goal rather than fulfilling expectations of a functional/non-functional harmony. So, any NRO, single or compound, when combined with instrument texture(s) i.e. plugins, might be sufficient to achieve an interesting and engaging song or soundscape context for production work._ 
 
 ***********************************************************************************************************************************************************
 
 
 ## References
 
-Boon, H. (2021). 'Improvising song writing and composition within a hybrid modular synthesis system', in Hepworth-Sawyer, R., Paterson, J., and Toulson, R. (eds.) _Innovation in Music Future Opportunities_. Abingdon, Oxon: Routledge.
+Boon, H. (2020), “Creating Basslines [Ableton Tutorial] Using Follow Actions Scale Device And Racks (2020) Part 1”, YouTube, 26 October. Available from https://youtu.be/GPg-EaxawvM. [Accessed June 2023]
 
-Capuzzo, G. (2004). Neo-Riemannian Theory and the Analysis of Pop-Rock Music, _Music Theory Spectrum_, 26:2, pp. 177–199. Available from https://libres.uncg.edu/ir/uncg/f/G_Capuzzo_Neo_2004.pdf.
+---------- (2021), “Improvising song writing and composition within a hybrid modular synthesis system”, in Hepworth-Sawyer, R., Paterson, J., and Toulson, R. (eds.), Innovation in Music Future Opportunities. Abingdon, Oxon: Routledge. 
 
-Cohn, R. (2000). Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes, _Music Theory Spectrum_, 22:1, pp. 89–103.
+---------- (2022), “Music Production and NRTs”, Github, https://github.com/boonh/Music-Production-and-NRTs. [Accessed June 2023]
 
-Forrest, D. L. (2017). PL Voice Leading and the Uncanny in Pop Music, Music Theory Online, 23:4. Available from https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.html. 
+Capuzzo, G. (2004), “Neo-Riemannian Theory and the Analysis of Pop-Rock Music”, Music Theory Spectrum, 26/2, pp. 177–199.
 
-Moore, A. F. (2017). _Rock The Primary Text_. London: Routledge. 
+Cohn, R. (2000), “Weitzmann's Regions, My Cycles, and Douthett's Dancing Cubes”, Music Theory Spectrum, 22/1, pp. 89–103.
 
-Spicer, M. (2017). Fragile, Emergent, and Absent Tonics in Pop and Rock Songs, _Music Theory Online_, 23:2. Available from https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html. 
+de Clercq, T. (2021), “The Logic of Six-Based Minor for Harmonic Analyses of Popular Music”, Music Theory Online, 27/4, https://mtosmt.org/issues/mto.21.27.4/mto.21.27.4.de_clercq.html. [Accessed June 2023]
 
-Tagg, P. (2009). _Everyday Tonality_. New York and Montreal: The Mass Media Scholars' Press.
+Forrest, D. (2017), “PL Voice Leading and the Uncanny in Pop Music”, Music Theory Online, 23/4. Available from https://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.forrest.php. [Accessed June 2023]
+
+Lehman, F. (2018), Hollywood Harmony: Musical Wonder and the Sound of Cinema. New York: Oxford University Press. 
+
+Moore, A. F. (2017), Rock The Primary Text. London: Routledge. 
+
+Murphy, S. (2014), “A Pop Music Progression in Recent Popular Movies and Movie Trailers”, Music, Sound, and the Moving Image, 8/2. Available from https://www.liverpooluniversitypress.co.uk/doi/10.3828/msmi.2014.9. [Accessed June 2023]
+
+Sasso, L. (2010). Follow Actions, Sound on Sound. Available from https://www.soundonsound.com/techniques/follow-actions/. [Accessed June 2023]
+
+Spicer, M. (2017), “Fragile, Emergent, and Absent Tonics in Pop and Rock Songs”, Music Theory Online, 23/2. Available from https://mtosmt.org/issues/mto.17.23.2/mto.17.23.2.spicer.html. [Accessed June 2023]
+
+Tagg, P. (2009), Everyday Tonality. New York and Montreal: The Mass Media Scholars' Press. Available from http://tagg.org/mmmsp/EverydayTonalityInfo.htm. [Accessed June 2023]
 
 ***********************************************************************************************************************************************************
 
@@ -91,6 +104,8 @@ Fink - [Pilgrim](https://youtu.be/eRjm9dupL1k)
 Fleetwood Mac - [Man of the World](https://youtu.be/8YaoGuBrqao)
 
 Herbie Hancock - [I Thought It Was You](https://youtu.be/868YQyzPBkg)
+
+Hospital Records - [S.P.Y - What The Future Holds (feat. Ian Shaw)](https://youtu.be/-X079aEWKlw)
 
 Janelle Monáe - [Look into My Eyes](https://youtu.be/KKWE2JVjrN0)
 
