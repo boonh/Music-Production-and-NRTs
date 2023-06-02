@@ -42,7 +42,7 @@ Tagg, P. (2009), Everyday Tonality. New York and Montreal: The Mass Media Schola
 
 # Chapter Video and Audio Links
 
-## Section 2: Popular Music Examples and NRTs
+## Section 2: Popular Music Examples
 
    [Songstarter 1](https://youtu.be/-sSwje8hwwc)
 
