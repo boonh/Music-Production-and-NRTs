@@ -48,7 +48,7 @@ Tagg, P. (2009), Everyday Tonality. New York and Montreal: The Mass Media Schola
 
    [Songstarter supplemental](https://youtu.be/AIR39h_YPc0)
 
-   [Extended NRT Arpeggiated Sequence](https://youtu.be/AoyLePyzl6M)
+   [Extended Arpeggiated Sequence](https://youtu.be/AoyLePyzl6M)
 
 ## Section 4: Production Approach 1 - Song Starters
 
